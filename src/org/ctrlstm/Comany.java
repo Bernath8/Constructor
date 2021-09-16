@@ -22,6 +22,18 @@ public class Comany {
 			a++;
 		} while (a<100);
 		
+		int c= 0;
+		while (a<10) {
+			System.out.println(a);
+			a++;
+		}
+		System.out.println("do while loop");
+		int d= 100;
+		do {
+			System.out.println(a);
+			a++;
+		} while (a<100);
+		
 	}
 	
 	
